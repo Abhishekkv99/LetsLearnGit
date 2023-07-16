@@ -26,4 +26,4 @@ def binary_search(arr,key,low,high):
 a=[2,4,5,6,7,8,9]
 
 b=binary_search(a, 9, 0, 6)
-print(b)
+print("The result is"+b)
